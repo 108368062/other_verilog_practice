@@ -1,7 +1,6 @@
 test=test.v
 source=bcdadd16.v
 output=bcd16_wave
-open=1
 all:
 	iverilog -o $(output).vvp $(test) $(source)
 	vvp $(output).vvp
