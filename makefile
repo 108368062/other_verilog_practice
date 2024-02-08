@@ -1,6 +1,6 @@
-test=alu_test.v
-source=alu.v
-output=alu_wave
+test=test.v
+source=bcdadd16.v
+output=bcd16_wave
 open=1
 all:
 	iverilog -o $(output).vvp $(test) $(source)
