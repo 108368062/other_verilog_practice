@@ -1,5 +1,5 @@
 //description: 4-digit BCD ripple-carry adder.
-//version:error vesion
+//version:correct vesion
 module bcdadd16 ( 
     input [15:0] a, b,
     input cin,
