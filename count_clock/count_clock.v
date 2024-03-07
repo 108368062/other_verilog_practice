@@ -81,6 +81,7 @@ module bcd_hh_8bit(
                 temp<=temp;
         end
     end
+    //decode to clock is 1~12
 	always@(*)
 	case(temp)
     4'd0:q=8'h12;
