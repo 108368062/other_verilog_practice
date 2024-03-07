@@ -10,8 +10,9 @@ module test();
         {A,B,C}=3'h0;
         #(1*cycle)
         enable=1;
-        #(1*cycle)
         S=1;
+        #(1*cycle)
+        S=0;
         #(7*cycle)
         enable=0;
         {A,B,C}=3'h0;
