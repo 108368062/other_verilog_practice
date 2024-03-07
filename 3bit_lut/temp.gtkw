@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Mar 07 15:27:00 2024
+[*]
+[dumpfile] "C:\Users\125wi\Documents\GitHub\other_verilog_practice\3bit_lut\bit_3_lut_wave.vcd"
+[dumpfile_mtime] "Thu Mar 07 15:26:33 2024"
+[dumpfile_size] 1361
+[savefile] "C:\Users\125wi\Documents\GitHub\other_verilog_practice\3bit_lut\temp.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-6.037296 86 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+test.s1.clk
+test.s1.enable
+test.s1.S
+test.s1.A
+test.s1.B
+test.s1.C
+test.s1.Z
+@800023
+test.s1.Q[7:0]
+@29
+(0)test.s1.Q[7:0]
+(1)test.s1.Q[7:0]
+(2)test.s1.Q[7:0]
+(3)test.s1.Q[7:0]
+(4)test.s1.Q[7:0]
+(5)test.s1.Q[7:0]
+(6)test.s1.Q[7:0]
+(7)test.s1.Q[7:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
